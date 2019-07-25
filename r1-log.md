@@ -23,3 +23,8 @@ Passing the parameter in the body makes it work like a charm !
 Fixed a bug which disabled Material UI Grid system. Somehow I added a div element right BEFORE the first container which messed everything up.
 Cleaned up unused files, imports and formated the code nicely.
 Tomorrow I need to clean and rethink the database conception as well as start thinking about a minimalist layout.
+
+### R1D5
+
+Redid the database conception. Not sure if I should add a different collection for the comments or add it in the post collection.
+Still going with mongo for learning purposes. Starting making the back end RESTful.
