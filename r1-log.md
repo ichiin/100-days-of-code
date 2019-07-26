@@ -28,3 +28,7 @@ Tomorrow I need to clean and rethink the database conception as well as start th
 
 Redid the database conception. Not sure if I should add a different collection for the comments or add it in the post collection.
 Still going with mongo for learning purposes. Starting making the back end RESTful.
+
+### R1D6
+
+Started a minimalist home page design on Figma.
