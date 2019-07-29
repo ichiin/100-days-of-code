@@ -32,3 +32,14 @@ Still going with mongo for learning purposes. Starting making the back end RESTf
 ### R1D6
 
 Started a minimalist home page design on Figma.
+
+### R1D7
+
+Added headers and replaced some elements on Figma
+
+### R1D8
+
+After changes requests don't work anymore, linked to the way I passed arguments in constructor (passing variables directly
+instead of passing full body). Now, addMail works but it returns 400 in Postman.
+
+
